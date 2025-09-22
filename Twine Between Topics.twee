@@ -5,8 +5,8 @@ Twine Between Topics
 :: StoryData
 {
   "ifid": "4167FBB5-7E9D-4FEA-9B26-068F5B1FDE72",
-  "format": "Twison",
-  "format-version": "0.0.1",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
   "start": "Twine Between Topics",
   "zoom": 1
 }
@@ -109,7 +109,7 @@ It will be sealed in the wax-blood of burgundy.
 Tied in a gold knot and sent cordially,
     to the mountain harbour of his father.
     
-[[Return to the courtyard|Twine Between Topics]]
+[[Return to the booth|Go to the booth]]
 
 
 :: Library Commons {"position":"675,600","size":"100,100"}
@@ -154,7 +154,7 @@ weeping
 speaking, unspoken reaching for epilogue
 logos - for the words. Of other Names for Gemstones.
 
-[[Return to the courtyard|Twine Between Topics]]
+[[Return to the booth|Go to the booth]]
 
 
 :: Poem of the Architect {"position":"675,850","size":"100,100"}
