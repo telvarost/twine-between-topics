@@ -70,7 +70,7 @@ Ah, but also peaceful calamnity. just the sorrows that we wanted. Charity and Sa
 [[Return to the library commons|Library Commons]]
 
 
-:: Go to the booth {"position":"900,500","size":"100,100"}
+:: Go to Telvarost's booth {"position":"900,500","size":"100,100"}
 "Hello there! My name is Telon Tara Telvarost. Currently only my booth is open. This is a timeless realm. Time only moves in the spaces beyond these walls, or within the shadow the booths. It is said though that the passage of time differs between all of them.  If you would like to return to exploring you can at anytime. The sun is full of light, the great shafts give warmth to the air, do they not? If you have a mind for heraldry, I may be able to help you get into the library... that's what I know best anyways. But, I long to visit the upper floors of that crystal tower over yonder. Or, to explore the stars with one of the crew working with the metalcrafts over there. The wilderness paths make for a good hike if you are looking to clear your mind. Or, sitting for a bit can be nice too. Shame we don't have a spot to fish, that's always a great pastime, haha!
 
 Anyways, my explanation has been longwinded, what would you like to do?"
@@ -109,7 +109,7 @@ It will be sealed in the wax-blood of burgundy.
 Tied in a gold knot and sent cordially,
     to the mountain harbour of his father.
     
-[[Return to the booth|Go to the booth]]
+[[Return to the booth|Go to Telvarost's booth]]
 
 
 :: Library Commons {"position":"675,600","size":"100,100"}
@@ -154,7 +154,7 @@ weeping
 speaking, unspoken reaching for epilogue
 logos - for the words. Of other Names for Gemstones.
 
-[[Return to the booth|Go to the booth]]
+[[Return to the booth|Go to Telvarost's booth]]
 
 
 :: Poem of the Architect {"position":"675,850","size":"100,100"}
@@ -217,6 +217,6 @@ Peqaiya smiles. "Are you a friend of Telon? He's been studying at the library al
 :: Twine Between Topics {"position":"800,350","size":"100,100"}
 You stand in a grassy courtyard full of booths. To your left you see the pillared stone columns of an old library. Ahead you see the stonework twist and ravel like a wall around a crystal tower ascending toward the sun. To your right you see the courtyard stones decend into a hangar bay where pieces of metal scintillate awaiting the void of stars. Glancing behind you, you see the paths of the wilderness. You then notice the wall that surrounds the courtyard. The stones are perfectly cut and all of the entrances are sealed. Only a single booth is available right now.
 
-[[Go to the booth]]
+[[Go to Telvarost's booth]]
 [[Go to the library (requires the clear gemwork key)]]
 [[Sit and wait]]
