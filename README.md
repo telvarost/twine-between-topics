@@ -8,7 +8,7 @@ Note! Make sure all of your nodes link back to your booth or to the courtyard so
 1. Create a new node and give it a descriptive title
 2. Link the node to the courtyard commons (Twine Between Topics)
 3. In the `Twine Between Topics` node create a link to your booth in the following format
-  - `[[Go to (so-and-so's) booth]]
+  - `[[Go to (so-and-so's) booth]]`
 4. (optional) create a second link in `Twine Between Topics` that leads to a demo story of yours that can only be accessed after they visit your booth
   - This should be framed in such a way as the reader is journeying to your story feel free to take inspiration or utilize the provided landmarks in the introduction
 
