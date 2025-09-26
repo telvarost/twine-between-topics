@@ -5,8 +5,8 @@ Twine Between Topics
 :: StoryData
 {
   "ifid": "4167FBB5-7E9D-4FEA-9B26-068F5B1FDE72",
-  "format": "Harlowe",
-  "format-version": "3.3.9",
+  "format": "SugarCube",
+  "format-version": "2.37.3",
   "start": "Twine Between Topics",
   "zoom": 1
 }
